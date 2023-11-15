@@ -45,7 +45,7 @@
 
 #### Team Deliverables
 - The project grade needs to be pass (G)
-  - You need to complete your Baseline Milestones, or renegotiate them
+  - You need to complete your [Baseline Milestones](#Scope), or renegotiate them
   - The game needs to be playable (Vertical Slice)
 - Technical Design Document needs to be submitted
 - Presentation of the project ́s outcom
@@ -121,7 +121,7 @@ If you need items to be added or removed to realise your vision, you need to neg
 - You can break down the scope into tickets for your backlog as you see fit
 - Milestone goals need to be defined before the first milestone period’s kick-off (November 20th).
 
-
+Remember to fulfil the [Game Requirements](#Game-Requirements)
 
 
 
